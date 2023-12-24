@@ -1,0 +1,8 @@
+{
+    "greeting": "Hello, Welcome!",
+    "description":{ 
+        "line1":"This is my page!",
+        "line2": "This is a tutorial for i18next",
+        "line3":"My name is <1>{{name}}</1>"
+}
+}
